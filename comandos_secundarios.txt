@@ -1,9 +1,13 @@
-Esse arquivo contem informações adicionais para git
+Este arquivo contém informações adicionais para git
 
-# Comandos mais genéricos 
+- Primeiro comando
+- Segundo comando
+
+# Comandos mais genéricos
 - comandos estranhos
 
-# Mais comandos
-ahaoifhoadshf
-asdjasfjoa
-sdjaoifjh
+# Mais comandos!!!
+
+iudhascybag i
+avjosadhb iadfg
+asgjlnadrsjklgb 
